@@ -1,10 +1,10 @@
 ---
 title: Hope
 date: 2019-06-07 17:46:57
-categories:
--Life
-tags:
--Hope
+categories: 
+- Life
+tags: 
+- Hope
 ---
 梳理一下最近要做的事情
 1.首要目标TOFEL
